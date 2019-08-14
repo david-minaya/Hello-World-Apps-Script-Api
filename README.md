@@ -2,7 +2,7 @@
 
 This is a simple example of how run the Apps Script Api of Google.
 
-This [guide](./Guide Google Apps Script Api (Form).md) to explain how write this project.
+This [guide](https://github.com/david-minaya/Hello-World-Apps-Script-Api/blob/master/Guide.md) to explain how write this project.
 
 To access to the Apps Script project that run this project is need a google account. But this is the code that containt the Google Apps Script project.
 
