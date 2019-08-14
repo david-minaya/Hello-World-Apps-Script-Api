@@ -27,7 +27,7 @@ If you are login with a Intellisys account you can access to the form url.
 
 In the console this program must print some like this:
 
-```json
+```
 Run the script
 >>>>>>>
 { done: true,
