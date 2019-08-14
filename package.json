@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-apps-script-api",
+  "version": "1.0.0",
+  "description": "This is a simple example of how run the Apps Script Api of Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-minaya/Hello-World-Apps-Script-Api.git"
+  },
+  "author": "David Minaya <davidminaya04@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-minaya/Hello-World-Apps-Script-Api/issues"
+  },
+  "homepage": "https://github.com/david-minaya/Hello-World-Apps-Script-Api#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
