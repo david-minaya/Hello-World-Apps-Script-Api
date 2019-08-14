@@ -25,6 +25,20 @@ function HelloWorld() {
 
 If you are login with a Intellisys account you can access to the form url.
 
+## Run this project
+
+To run this project clone this repository.
+
+`git clone https://github.com/david-minaya/Hello-World-Apps-Script-Api.git`
+
+Install the npm packages.
+
+`npm install`
+
+And run the project.
+
+`node .`
+
 In the console this program must print some like this:
 
 ```
